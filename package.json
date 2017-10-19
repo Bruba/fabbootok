@@ -1,0 +1,26 @@
+{
+  "name": "fabbootok",
+  "version": "1.0.0",
+  "description": "A web application that brings various individuals and communnities together to a common platform where we communicate and network together.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karimsawaneh/fabbootok.git"
+  },
+  "author": "The Fabbootok Team",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karimsawaneh/fabbootok/issues"
+  },
+  "homepage": "https://github.com/karimsawaneh/fabbootok#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "dependable": "^1.1.0",
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "lodash": "^4.17.4"
+  }
+}
